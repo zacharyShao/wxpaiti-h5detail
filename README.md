@@ -1,1 +1,0 @@
-# wxpaiti-h5detail
